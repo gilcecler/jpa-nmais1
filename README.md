@@ -1,4 +1,4 @@
-#Créditos:  Conteúdo clonado do Professor Nélio, conforme abaixo#
+#Créditos:  Conteúdo clonado do Professor Nélio#
 https://github.com/devsuperior/aulao_nmais1
 
 # Aulão Problema N+1 queries com Spring Data JPA
